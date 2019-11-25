@@ -1,0 +1,13 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1574164702,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/I2C.v,,clk_wiz_0,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1574164701,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/I2C.v,1574515504,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/display.v,,I2C,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/TOP.v,1574249925,verilog,,,,TOP,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/display.v,1574424140,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/key_scan.v,,display,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/key_scan.v,1574164060,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/scanseg.v,,key_scan,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/scanseg.v,1574164062,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/spi.v,,scan_seg,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/spi.v,1574164061,verilog,,D:/Vivado project/FPGA_game/FPGA_game/FPGA_game.srcs/sources_1/new/TOP.v,,spi,,,../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0,,,,,

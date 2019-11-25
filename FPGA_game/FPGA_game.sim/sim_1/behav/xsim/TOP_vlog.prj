@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../FPGA_game.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../FPGA_game.srcs/sources_1/new/I2C.v" \
+"../../../../FPGA_game.srcs/sources_1/new/display.v" \
+"../../../../FPGA_game.srcs/sources_1/new/key_scan.v" \
+"../../../../FPGA_game.srcs/sources_1/new/scanseg.v" \
+"../../../../FPGA_game.srcs/sources_1/new/spi.v" \
+"../../../../FPGA_game.srcs/sources_1/new/TOP.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
